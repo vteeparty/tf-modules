@@ -1,4 +1,4 @@
-eusable Terraform modules for cloud automation.
+Reusable Terraform modules for cloud automation.
 Accelerate secure, scalable infrastructure deployments on AWS, Azure, and GCP using best practices for reliability and maintainability. Streamline provisioning, improve consistency, and simplify DevOps workflows for modern teams and CI/CD pipelines.
 
 🚀 Features
